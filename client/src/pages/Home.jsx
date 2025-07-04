@@ -15,7 +15,7 @@ const Home = () => {
   const [showConfetti, setShowConfetti] = useState(false);
 
   const copyHandler = () => {
-    navigator.clipboard.writeText("mehtaparas1901@gmail.com"); 
+    navigator.clipboard.writeText("srikanthlomte72@gmail.com"); 
     setCopied(true);
     toast.success("Email Copied")
     setTimeout(() => {
@@ -49,12 +49,12 @@ const Home = () => {
         {/* left Part */}
         <div className="w-4/6">
           <div className="flex justify-center sm:justify-start">
-            <DotTitle title="Full Stack Developer"/>
+            <DotTitle title="Full Stack Developer and Problem Solver"/>
           </div>
           
           <div className="font-[inter] text-white font-semibold">
             <div className="my-6 flex flex-col gap-1"> 
-              <h1 className="font-[inter] text-white font-bold text-center sm:text-left text-3xl">I'm Paras</h1>
+              <h1 className="font-[inter] text-white font-bold text-center sm:text-left text-3xl">I'm Srikanth</h1>
               <p className=" text-[#aba5a5] text-center sm:text-left text-[15px] sm:text-xl leading-relaxed ">
                 Hi, I am a MERN Stack Developer with 1 year of experience in building web app. I specialize in {''} 
                 <span className="font-bold text-[#d8eef7] bg-[#545151] rounded-lg px-1 py-1 transition-opacity duration-500 ease-in-out">{texts[index]}</span>
@@ -64,7 +64,7 @@ const Home = () => {
             <div className="flex gap-3 justify-center sm:justify-start">
               <a 
                 onClick={confettiHandler}
-                href="/Paras_Resume.pdf"
+                href="/SRIKANTH_LOMTE_RESUME.pdf"
                 download
                 className="px-2 py-1 rounded-lg flex items-center gap-2 cursor-pointer bg-red-600 active:scale-95 transition-transform duration-150"
               >
@@ -109,9 +109,9 @@ const Home = () => {
           </div>
         </div>
         
-        <ProjectCard image="payeasy.png" title="PayEasy 💸" description="Fully functional peer-to-peer money transfer system with user authentication" gitLink="https://github.com/parasss19/Payment-App" liveLink="https://payeasy-frontend.vercel.app/"/>
-        <ProjectCard image="/sticky.svg" title="Sticky" description="A fun & fast GIF ,Stickers finder where you can explore, search, favorite, and download trending and categorized GIFs in real-time" gitLink="https://github.com/parasss19/GiphyApp" liveLink="https://sticky-blond.vercel.app/"/>
-        <ProjectCard image="/extension.png" title="AI SUMMARIZER" description="AI Summary for Blogs and Articles - Chrome Extension" gitLink="https://github.com/parasss19/AI-summarizer-Extension"/>
+        <ProjectCard image="payeasy.png" title="PayEasy 💸" description="Fully functional peer-to-peer money transfer system with user authentication" gitLink="https://github.com/SRIKANTHLOMTE/Payment-App" liveLink="https://payeasy-frontend.vercel.app/"/>
+        <ProjectCard image="/sticky.svg" title="Sticky" description="A fun & fast GIF ,Stickers finder where you can explore, search, favorite, and download trending and categorized GIFs in real-time" gitLink="https://github.com/SRIKANTHLOMTE/GiphyApp" liveLink="https://sticky-blond.vercel.app/"/>
+        <ProjectCard image="/extension.png" title="AI SUMMARIZER" description="AI Summary for Blogs and Articles - Chrome Extension" gitLink="https://github.com/SRIKANHTLOMTE/AI-summarizer-Extension"/>
       </div>
       
     </div>

@@ -15,21 +15,21 @@ const Footer = () => {
         
         <div className='flex items-center gap-3 text-white mx-3'>
           <a 
-            href="https://twitter.com/Parasss1902" 
+            href="https://x.com/Srikanth_lomte" 
             target='blank' 
             className="bg-black px-2 py-2 rounded-full hover:-translate-y-1 transition-transform ease-linear"
           >
             <FaXTwitter className="w-[18px] h-[18px] sm:w-6 sm:h-6"/>
           </a>
           <a 
-            href="https://github.com/parasss19" 
+            href="https://github.com/SRIKANTHLOMTE" 
             target='blank'
             className="bg-black px-2 py-2 rounded-full hover:-translate-y-1 transition-transform ease-linear"
           >
             <FiGithub className="w-[18px] h-[18px] sm:w-6 sm:h-6"/>
           </a>
           <a 
-            href="https://www.linkedin.com/in/paras-mehta19/" 
+            href="https://www.linkedin.com/in/srikanth-lomte-6a9974223/" 
             target='blank'
             className="bg-black px-2 py-2 rounded-full hover:-translate-y-1 transition-transform ease-linear"
           >
@@ -40,7 +40,7 @@ const Footer = () => {
       
       <div className="mt-4 mb-3">
         <p class="text-sm sm:text-[17px] text-gray-500 text-center font-[inter]">Made with ❤️ and 🍵</p>
-        <p class="text-sm sm:text-[17px] text-gray-500 text-center font-[inter]">© 2025 Paras Mehta. All rights reserved.</p> 
+        <p class="text-sm sm:text-[17px] text-gray-500 text-center font-[inter]">© 2025 Srikanth Lomte. All rights reserved.</p> 
       </div>
     </div>
   )

@@ -13,9 +13,9 @@ const ProjectsPage = () => {
       <div className="my_container bg-[#2C2C2C] mx-2 my-6 py-1 rounded-lg">
         <DetailedProjectCard 
           logoImg="payeasy.png" 
-          websiteImg="https://res.cloudinary.com/dxxeks4o5/image/upload/v1744698767/0FEA8AD7-EF62-454B-B258-0D0F6AB166A5_dac1pt.png"
+          websiteImg="PAYEASY_web.png"
           title="PayEasy 💸" 
-          gitLink="https://github.com/parasss19/Payment-App" 
+          gitLink="https://github.com/SRIKANTHLOMTE/Payment-App" 
           liveLink="https://payeasy-frontend.vercel.app/"
           techStack={['ReactJS', 'Tailwind', 'Node', 'Express', 'MongoDB', 'Zod', 'Context API']}
           description={[
@@ -25,9 +25,9 @@ const ProjectsPage = () => {
         />
         <DetailedProjectCard 
           logoImg="sticky.svg" 
-          websiteImg="https://res.cloudinary.com/dxxeks4o5/image/upload/v1742539916/l0kvnluudpvlj4ihqdxd.png"
+          websiteImg="STICKY_web.png"
           title="Sticky" 
-          gitLink="https://github.com/parasss19/GiphyApp" 
+          gitLink="https://github.com/SRIKANTHLOMTE/GiphyApp" 
           liveLink="https://sticky-blond.vercel.app/"
           techStack={['ReactJS', 'Tailwind', 'Giphy API', 'Context API', 'Vite']}
           description={[
@@ -39,9 +39,9 @@ const ProjectsPage = () => {
 
         <DetailedProjectCard 
           logoImg="extension.png"
-          websiteImg="https://res.cloudinary.com/dxxeks4o5/image/upload/v1749970742/image_k3364r.png"
+          websiteImg="AI_web.png"
           title="AI SUMMARIZER" 
-          gitLink="https://github.com/parasss19/AI-summarizer-Extension" 
+          gitLink="https://github.com/SRIKANTHLOMTE/AI-summarizer-Extension" 
           techStack={['ReactJS', 'Tailwind', 'Gemini Pro', 'Chrome Storage']}
           description={[
             "Built an AI-powered fully functional Chrome Extension using React (Vite) and TailwindCSS to summarize any webpage content instantly.",
@@ -52,9 +52,9 @@ const ProjectsPage = () => {
         />
         <DetailedProjectCard 
           logoImg="escape.png"
-          websiteImg="https://res.cloudinary.com/dxxeks4o5/image/upload/v1750152060/EA3C85FC-11D2-401F-BFB5-5289D3E521D1_iu5aqz.png"
+          websiteImg="ESCAPE_web.png"
           title="Landing Page - SaaS" 
-          gitLink="https://github.com/parasss19/Escape" 
+          gitLink="https://github.com/SRIKANTHLOMTE/Escape" 
           liveLink="https://parasss19.github.io/Escape/"
           techStack={['HTML', 'Tailwind', 'Javascript']}
           description={[
@@ -65,9 +65,9 @@ const ProjectsPage = () => {
         />
         <DetailedProjectCard 
           logoImg="camera.png" 
-          websiteImg="https://res.cloudinary.com/dxxeks4o5/image/upload/v1749972542/982B66D0-4442-4AB6-BF54-BE00413055F5_tqbxke.png"
+          websiteImg="CAMARA_web.png"
           title="WebCam Fun" 
-          gitLink="https://github.com/parasss19/JS-Project6" 
+          gitLink="https://github.com/SRIKANTHLOMTE/JS-Project6" 
           liveLink="https://parasss19.github.io/JS-Project6/"
           techStack={['HTML', 'Tailwind', 'Javascript', 'Web API', 'HTML5 Canvas']}
           description={[
@@ -78,9 +78,9 @@ const ProjectsPage = () => {
         />
         <DetailedProjectCard 
           logoImg="paint-brush.png" 
-          websiteImg="https://res.cloudinary.com/dxxeks4o5/image/upload/v1749970933/2236200A-B48A-4232-B13F-F2715C9A1E4D_m2ckmq.png"
+          websiteImg="PAINT_web.png"
           title="Free Hand" 
-          gitLink="https://github.com/parasss19/JS-Project5" 
+          gitLink="https://github.com/SRIKANTHLOMTE/JS-Project5" 
           liveLink="https://parasss19.github.io/JS-Project5/"
           techStack={['HTML', 'Tailwind', 'Javascript', 'HTML5 Canvas']}
           description={[
