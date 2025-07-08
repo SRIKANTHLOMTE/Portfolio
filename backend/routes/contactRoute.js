@@ -1,5 +1,5 @@
 import { Router } from "express";
-import { validateUser } from '../middleware/validateUser.js';
+import { validateUser } from './middleware/validateUser.js';
 import nodemailer from 'nodemailer';
 
 const router = Router();
