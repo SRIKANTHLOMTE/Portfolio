@@ -1,5 +1,4 @@
 import DotTitle from '../components/Dot_Title';
-
 const About = () => {
   return (
     <div className='mx-5 mt-4'>
