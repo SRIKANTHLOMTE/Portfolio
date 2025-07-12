@@ -16,7 +16,7 @@ const ProjectsPage = () => {
           websiteImg="PAYEASY_web.png"
           title="PayEasy 💸" 
           gitLink="https://github.com/SRIKANTHLOMTE/Payment-App" 
-          liveLink="https://payeasy-frontend.vercel.app/"
+          liveLink="https://payeay-frontend.vercel.app/"
           techStack={['ReactJS', 'Tailwind', 'Node', 'Express', 'MongoDB', 'Zod', 'Context API']}
           description={[
             "A secure full stack payment system using JWT authentication and MongoDB transactions to simulate real-time digital pyments",
@@ -28,7 +28,7 @@ const ProjectsPage = () => {
           websiteImg="STICKY_web.png"
           title="Sticky" 
           gitLink="https://github.com/SRIKANTHLOMTE/GiphyApp" 
-          liveLink="https://sticky-blond.vercel.app/"
+          liveLink="https://sticy-blond.vercel.app/"
           techStack={['ReactJS', 'Tailwind', 'Giphy API', 'Context API', 'Vite']}
           description={[
             "A real-time GIF search with support for trending categories, stickers, and texts using Giphy API.",
@@ -55,7 +55,7 @@ const ProjectsPage = () => {
           websiteImg="ESCAPE_web.png"
           title="Landing Page - SaaS" 
           gitLink="https://github.com/SRIKANTHLOMTE/Escape" 
-          liveLink="https://parasss19.github.io/Escape/"
+          liveLink="https://SRIKANTHLOMTE.github.io/Escape/"
           techStack={['HTML', 'Tailwind', 'Javascript']}
           description={[
             "Responsive Landing Page built using HTML, TailwindCSS, and Vanilla JavaScript, mimicking the official ToDesktop aesthetic with pixel-perfect precision.",
@@ -68,7 +68,7 @@ const ProjectsPage = () => {
           websiteImg="CAMARA_web.png"
           title="WebCam Fun" 
           gitLink="https://github.com/SRIKANTHLOMTE/JS-Project6" 
-          liveLink="https://parasss19.github.io/JS-Project6/"
+          liveLink="https://SRIKANTHLOMTE.github.io/JS-Project6/"
           techStack={['HTML', 'Tailwind', 'Javascript', 'Web API', 'HTML5 Canvas']}
           description={[
             "Developed a webcam-based image filter and screenshot application using HTML5, JavaScript, and TailwindCSS.",
@@ -81,7 +81,7 @@ const ProjectsPage = () => {
           websiteImg="PAINT_web.png"
           title="Free Hand" 
           gitLink="https://github.com/SRIKANTHLOMTE/JS-Project5" 
-          liveLink="https://parasss19.github.io/JS-Project5/"
+          liveLink="https://SRIKANTHLOMTE.github.io/JS-Project5/"
           techStack={['HTML', 'Tailwind', 'Javascript', 'HTML5 Canvas']}
           description={[
             "Implemented a dynamic drawing interface with real-time mouse tracking and smooth line rendering using the <canvas> API.",
